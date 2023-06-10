@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'personal profile'
-copyright = '2023, Jiayi Huang'
-author = 'Jiayi Huang'
+copyright = '2023, Jia yi Huang'
+author = 'Jia yi Huang'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
