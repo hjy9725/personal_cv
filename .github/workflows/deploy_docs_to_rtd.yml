@@ -4,7 +4,6 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'personal_cv/**'
       - '.github/workflows/deploy_docs_to_rtd.yml'
       - 'README.md'
 
