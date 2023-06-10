@@ -5,7 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'personal_cv/**'
-      - '.github/workflows/deploy_docs_to_rtd.yml'
+      - '.github/workflows/main.yml'
       - 'README.md'
 
 env:
