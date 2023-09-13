@@ -10,7 +10,9 @@ Welcome to Jiayi Huang's profile
    :maxdepth: 2
    :caption: Contents:
 
-
+Download CV
+==================
+:download:`黄家毅_简历.pdf <../黄家毅_简历.pdf>`
 
 Indices and tables
 ==================
